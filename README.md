@@ -1,4 +1,4 @@
-# https://anatolov.github.io/spint-2/
+# https://anatolov.github.io/a-teaching-light/
 ## Научиться учиться
 
 ### Стек технологий: HTML, CSS, Анимация, Адаптивная верстка, файловая структура организована по БЭМ nested.
